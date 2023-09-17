@@ -1,5 +1,5 @@
 # Python-resources
-## A list of all python resources I come across 
+### A list of all python resources I come across 
 
 1. HackerRank [https://www.hackerrank.com/dashboard]
 2. Automate the Boring Stuff with Python [https://automatetheboringstuff.com/2e/chapter0/]
