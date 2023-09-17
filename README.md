@@ -10,5 +10,5 @@
 7. Free Code Camp [https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-course]
 8. Code Academy [https://www.codecademy.com/courses/learn-python-3/lessons/python-hello-world/exercises/comments]
 9. Free code academy [https://www.freecodecamp.org/learn/scientific-computing-with-python/]
-10.  Free code camp academy [https://www.freecodecamp.org/learn/scientific-computing-with-python/]
-11.  
+10. Free code camp academy [https://www.freecodecamp.org/learn/scientific-computing-with-python/]
+11. Free Code Camp [https://www.freecodecamp.org/learn/scientific-computing-with-python/] 
