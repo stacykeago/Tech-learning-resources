@@ -19,9 +19,11 @@
 1. Tech interview handbook [https://www.techinterviewhandbook.org/software-engineering-interview-guide/]
 2. Free Code camp [https://www.freecodecamp.org/learn/coding-interview-prep/]
 
-# Data science roadmap
+# Data science 
 1.   Roadmap Ai [https://roadmap.sh/ai-data-scientist]
-2.   
+2.   AWS [https://explore.skillbuilder.aws/learn/public/learning_plan/view/97/data-analytics-learning-plan?dt=sec&sec=lp]
+3.   AWS Data analytics fundamentals [https://explore.skillbuilder.aws/learn/course/external/view/elearning/44/data-analytics-fundamentals?dt=tile&tile=fdt]
+4.   
 
 ## Machine learning
 1. IBM  [https://www.ibm.com/topics/machine-learning]
