@@ -12,5 +12,13 @@
 9. Free code academy [https://www.freecodecamp.org/learn/scientific-computing-with-python/]
 10. Google's Python Class [https://developers.google.com/edu/python]
 11. Kaggle [https://www.kaggle.com/learn/python]
-12. 
+12. Roadmap [https://roadmap.sh/python]
+13. Freecode camp [https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody]
+14. 
+## Tech Interview tips
+1. Tech interview handbook [https://www.techinterviewhandbook.org/software-engineering-interview-guide/]
+2. Free Code camp [https://www.freecodecamp.org/learn/coding-interview-prep/]
 
+# Data science roadmap
+1.   Roadmap Ai [https://roadmap.sh/ai-data-scientist]
+2.   
