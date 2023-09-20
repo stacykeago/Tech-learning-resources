@@ -24,7 +24,9 @@
 1.   Roadmap Ai [https://roadmap.sh/ai-data-scientist]
 2.   AWS [https://explore.skillbuilder.aws/learn/public/learning_plan/view/97/data-analytics-learning-plan?dt=sec&sec=lp]
 3.   AWS Data analytics fundamentals [https://explore.skillbuilder.aws/learn/course/external/view/elearning/44/data-analytics-fundamentals?dt=tile&tile=fdt]
-4.   
+4.   Data engineer coursera [https://www.coursera.org/professional-certificates/data-warehouse-engineering]
+5.   Azure data engineer [https://learn.microsoft.com/en-us/training/modules/introduction-to-data-engineering-azure/]
+6.   
 
 ## Machine learning
 1. IBM  [https://www.ibm.com/topics/machine-learning]
@@ -35,7 +37,9 @@
 2. Google drive [https://drive.google.com/drive/folders/1DqvFPxC3ROZgRndVYsfpX7C7Nqx1CnmL]
 3. Web security academy [https://portswigger.net/web-security]
 4. Hack the box [https://www.hackthebox.com/]
-5. 
+5. Cybersecurity coursera [https://www.coursera.org/professional-certificates/google-cybersecurity]
+6. 
+7. 
 ## Cloud 
 1. Cloud essentials [https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-foundations-learning-plan?dt=sec&sec=lp]
 2. 
