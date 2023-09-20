@@ -36,3 +36,6 @@
 3. Web security academy [https://portswigger.net/web-security]
 4. Hack the box [https://www.hackthebox.com/]
 5. 
+## Cloud 
+1. Cloud essentials [https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-foundations-learning-plan?dt=sec&sec=lp]
+2. 
