@@ -11,5 +11,6 @@
 8. Code Academy [https://www.codecademy.com/courses/learn-python-3/lessons/python-hello-world/exercises/comments]
 9. Free code academy [https://www.freecodecamp.org/learn/scientific-computing-with-python/]
 10. Google's Python Class [https://developers.google.com/edu/python]
-11. 
+11. Kaggle [https://www.kaggle.com/learn/python]
+12. 
 
