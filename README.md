@@ -22,3 +22,7 @@
 # Data science roadmap
 1.   Roadmap Ai [https://roadmap.sh/ai-data-scientist]
 2.   
+
+## Machine learning
+1. IBM  [https://www.ibm.com/topics/machine-learning]
+2. 
