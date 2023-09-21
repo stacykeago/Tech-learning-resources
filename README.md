@@ -26,7 +26,7 @@
 4. 
 
 ## Data science 
-1.   Roadmap Ai [https://roadmap.sh/ai-data-scientist]
+1.   Roadmap Ai-Data Science Roadmap [https://roadmap.sh/ai-data-scientist]
 2.   AWS [https://explore.skillbuilder.aws/learn/public/learning_plan/view/97/data-analytics-learning-plan?dt=sec&sec=lp]
 3.   AWS Data analytics fundamentals [https://explore.skillbuilder.aws/learn/course/external/view/elearning/44/data-analytics-fundamentals?dt=tile&tile=fdt]
 4.   Data engineer coursera [https://www.coursera.org/professional-certificates/data-warehouse-engineering]
