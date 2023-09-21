@@ -15,7 +15,8 @@
 12. Roadmap [https://roadmap.sh/python]
 13. Freecode camp [https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody]
 14. HackerRank [https://www.hackerrank.com/domains/python]
-15. 
+15. HackerRank Python test [https://www.hackerrank.com/skills-verification/python_basic]
+16. 
 
     
 ## Tech Interview tips
