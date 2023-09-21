@@ -14,11 +14,15 @@
 11. Kaggle [https://www.kaggle.com/learn/python]
 12. Roadmap [https://roadmap.sh/python]
 13. Freecode camp [https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody]
+14. HackerRank [https://www.hackerrank.com/domains/python]
+15. 
 
     
 ## Tech Interview tips
 1. Tech interview handbook [https://www.techinterviewhandbook.org/software-engineering-interview-guide/]
 2. Free Code camp [https://www.freecodecamp.org/learn/coding-interview-prep/]
+3. hackerRank [https://www.hackerrank.com/interview/preparation-kits]
+4. 
 
 ## Data science 
 1.   Roadmap Ai [https://roadmap.sh/ai-data-scientist]
@@ -30,7 +34,8 @@
 
 ## Machine learning
 1. IBM  [https://www.ibm.com/topics/machine-learning]
-2. 
+2. Khan academy  [https://www.khanacademy.org/computing/ap-computer-science-principles/data-analysis-101/x2d2f703b37b450a3:machine-learning-and-bias/a/machine-learning-algorithms]
+3. 
 
 ## Cyber Security
 1. Try hack me [https://tryhackme.com/room/introtooffensivesecurity]
