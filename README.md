@@ -46,9 +46,7 @@
 5. Cybersecurity coursera [https://www.coursera.org/professional-certificates/google-cybersecurity]
 6. 
 7. 
-## Cloud 
-1. Cloud essentials [https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-foundations-learning-plan?dt=sec&sec=lp]
-2. 
+
 ## SQL
 1. IBM Microsoft [https://learn.microsoft.com/en-us/training/courses/dp-300t00]
 
