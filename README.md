@@ -31,7 +31,8 @@
 3.   AWS Data analytics fundamentals [https://explore.skillbuilder.aws/learn/course/external/view/elearning/44/data-analytics-fundamentals?dt=tile&tile=fdt]
 4.   Data engineer coursera [https://www.coursera.org/professional-certificates/data-warehouse-engineering]
 5.   Azure data engineer [https://learn.microsoft.com/en-us/training/modules/introduction-to-data-engineering-azure/]
-6.   
+6.   Data Engineering on Microsoft Azure  [https://learn.microsoft.com/en-us/training/courses/dp-203t00]
+7.   
 
 ## Machine learning
 1. IBM  [https://www.ibm.com/topics/machine-learning]
@@ -52,4 +53,5 @@
 
 2. ## Databases
 3. 1. Databases [https://www.hackerrank.com/domains/databases]
-   2. 
+   2. Microsoft Azure SQL [https://learn.microsoft.com/en-us/training/courses/dp-300t00]
+   3. 
