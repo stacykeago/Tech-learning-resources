@@ -51,4 +51,7 @@
 2. 
 ## SQL
 1. IBM Microsoft [https://learn.microsoft.com/en-us/training/courses/dp-300t00]
-2. 
+
+2. ## Databases
+3. 1. Databases [https://www.hackerrank.com/domains/databases]
+   2. 
