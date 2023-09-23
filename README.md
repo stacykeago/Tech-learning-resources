@@ -16,7 +16,8 @@
 13. Freecode camp [https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody]
 14. HackerRank [https://www.hackerrank.com/domains/python]
 15. HackerRank Python test [https://www.hackerrank.com/skills-verification/python_basic]
-16. 
+16. Pynative python quizes [https://pynative.com/python/quizzes/]
+17. 
 
     
 ## Tech Interview tips
