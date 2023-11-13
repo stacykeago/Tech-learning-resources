@@ -27,13 +27,11 @@
 4. 
 
 ## Data science 
-1.   Roadmap Ai-Data Science Roadmap [https://roadmap.sh/ai-data-scientist]
-2.   AWS [https://explore.skillbuilder.aws/learn/public/learning_plan/view/97/data-analytics-learning-plan?dt=sec&sec=lp]
-3.   AWS Data analytics fundamentals [https://explore.skillbuilder.aws/learn/course/external/view/elearning/44/data-analytics-fundamentals?dt=tile&tile=fdt]
-4.   Data engineer coursera [https://www.coursera.org/professional-certificates/data-warehouse-engineering]
-5.   Azure data engineer [https://learn.microsoft.com/en-us/training/modules/introduction-to-data-engineering-azure/]
-6.   Data Engineering on Microsoft Azure  [https://learn.microsoft.com/en-us/training/courses/dp-203t00]
-7.   
+1. Roadmap Ai-Data Science Roadmap [https://roadmap.sh/ai-data-scientist]
+2.Data engineer coursera [https://www.coursera.org/professional-certificates/data-warehouse-engineering]
+4. Azure data engineer [https://learn.microsoft.com/en-us/training/modules/introduction-to-data-engineering-azure/]
+5. Data Engineering on Microsoft Azure  [https://learn.microsoft.com/en-us/training/courses/dp-203t00]
+  
 
 ## Machine learning
 1. IBM  [https://www.ibm.com/topics/machine-learning]
@@ -69,6 +67,6 @@
 ## SQL
 1. IBM Microsoft [https://learn.microsoft.com/en-us/training/courses/dp-300t00]
 
-2. ## Databases
-3. Databases [https://www.hackerrank.com/domains/databases]
-4. Microsoft Azure SQL [https://learn.microsoft.com/en-us/training/courses/dp-300t00]
+## Databases
+1. Databases [https://www.hackerrank.com/domains/databases]
+2. Microsoft Azure SQL [https://learn.microsoft.com/en-us/training/courses/dp-300t00]
