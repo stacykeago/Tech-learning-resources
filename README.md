@@ -28,7 +28,7 @@
 
 ## Data science 
 1. Roadmap Ai-Data Science Roadmap [https://roadmap.sh/ai-data-scientist]
-2.Data engineer coursera [https://www.coursera.org/professional-certificates/data-warehouse-engineering]
+2. Data engineer coursera [https://www.coursera.org/professional-certificates/data-warehouse-engineering]
 4. Azure data engineer [https://learn.microsoft.com/en-us/training/modules/introduction-to-data-engineering-azure/]
 5. Data Engineering on Microsoft Azure  [https://learn.microsoft.com/en-us/training/courses/dp-203t00]
   
@@ -38,14 +38,14 @@
 
 
 ## Cyber Security
-1. Try hack me [https://tryhackme.com/room/introtooffensivesecurity]
+1. Try hack me  [https://tryhackme.com/room/introtooffensivesecurity]
 2. Google drive [https://drive.google.com/drive/folders/1DqvFPxC3ROZgRndVYsfpX7C7Nqx1CnmL]
 3. Web security academy [https://portswigger.net/web-security]
 4. Hack the box [https://www.hackthebox.com/]
 5. Cybersecurity coursera [https://www.coursera.org/professional-certificates/google-cybersecurity]
-6.  Cybrary Training (FREE) [https://cybrary.it ]
-7.  AttackIQ Mitre Att&ck (FREE)  [ https://lnkd.in/dcfmSPEJ ]
-8.  Splunk Courses (FREE) [ https://lnkd.in/d_dZNdu ]
+6. Cybrary Training (FREE) [https://cybrary.it ]
+7. AttackIQ Mitre Att&ck (FREE)  [ https://lnkd.in/dcfmSPEJ ]
+8. Splunk Courses (FREE) [ https://lnkd.in/d_dZNdu ]
 9. CSILinux Forensics Training (FREE) [https://lnkd.in/dhjwx_5h ]
 10. Cyber Essentials [https://lnkd.in/dCQr2ket]
 11. Cloud Security [https://lnkd.in/dDSMg7xa ]
