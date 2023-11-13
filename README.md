@@ -37,8 +37,7 @@
 
 ## Machine learning
 1. IBM  [https://www.ibm.com/topics/machine-learning]
-2. Khan academy  [https://www.khanacademy.org/computing/ap-computer-science-principles/data-analysis-101/x2d2f703b37b450a3:machine-learning-and-bias/a/machine-learning-algorithms]
-3. 
+
 
 ## Cyber Security
 1. Try hack me [https://tryhackme.com/room/introtooffensivesecurity]
@@ -71,6 +70,5 @@
 1. IBM Microsoft [https://learn.microsoft.com/en-us/training/courses/dp-300t00]
 
 2. ## Databases
-3. 1. Databases [https://www.hackerrank.com/domains/databases]
-   2. Microsoft Azure SQL [https://learn.microsoft.com/en-us/training/courses/dp-300t00]
-   3. 
+3. Databases [https://www.hackerrank.com/domains/databases]
+4. Microsoft Azure SQL [https://learn.microsoft.com/en-us/training/courses/dp-300t00]
