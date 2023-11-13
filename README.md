@@ -34,7 +34,8 @@
 4. Azure data engineer [https://learn.microsoft.com/en-us/training/modules/introduction-to-data-engineering-azure/]
 5. Data Engineering on Microsoft Azure  [https://learn.microsoft.com/en-us/training/courses/dp-203t00]
 6. Data science books [https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html]
-7. 
+7. Data analysis steps [https://docs.google.com/document/d/1VlgLElYOOoPVCI6IPWg2KJDnFkGtbLPPQrB7wQKm1Xw/edit?pli=1]
+8. Data analysis projects [https://docs.google.com/document/d/1ExzwAJpYbhmCkrlzmOL12rOEVtHzIEdEeH7_9Pm3uco/edit]
   
 
 ## Machine learning
