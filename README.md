@@ -1,4 +1,4 @@
-# Tech learning resources
+# Tech learning resources | Python | Tech Interview tips | Data science | Machine learning | Cyber Security
 
 ## Python resources 
 1. HackerRank [https://www.hackerrank.com/dashboard]
@@ -46,8 +46,26 @@
 3. Web security academy [https://portswigger.net/web-security]
 4. Hack the box [https://www.hackthebox.com/]
 5. Cybersecurity coursera [https://www.coursera.org/professional-certificates/google-cybersecurity]
-6. 
-7. 
+6.  Cybrary Training (FREE) [https://cybrary.it ]
+7.  AttackIQ Mitre Att&ck (FREE)  [ https://lnkd.in/dcfmSPEJ ]
+8.  Splunk Courses (FREE) [ https://lnkd.in/d_dZNdu ]
+9. CSILinux Forensics Training (FREE) [https://lnkd.in/dhjwx_5h ]
+10. Cyber Essentials [https://lnkd.in/dCQr2ket]
+11. Cloud Security [https://lnkd.in/dDSMg7xa ]
+12. Cloud Computing Security [https://lnkd.in/dE62kGXX ]
+13. Cyber Supply Chain Risk Management for the Public [https://lnkd.in/dxEaQA8w ]
+14. Fundamentals of Cyber Risk Management [https://lnkd.in/dXjpdZMr ]
+15. Introduction to Cyber Intelligence  [https://lnkd.in/dB9cgC99 ]
+16. Securing Internet Accessible Systems  [https://lnkd.in/dv_nYHbP ]
+17. Hacker101[FREE] -  [https://hacker101.com ]
+18. PentesterLab [FREE]  [ https://pentesterlab.com ]
+19. AttackIQ [FREE] [https://academy.attackiq.com/learning-paths ]
+20. Hack The Box [FREE/PAID] [https://hackthebox.com]
+21. HackTheBox Academy [FREE/PAID]  [ https://academy.hackthebox.com ]
+22. IppSec - YouTube [FREE]  [ https://m.youtube.com/results?search_query=ippsec]
+23. Kali Linux Revealed [FREE]  [https://kali.training ]
+24. OffSec Proving Grounds [FREE/PAID]  [https://offsec.com/labs/individual/]
+25. 
 
 ## SQL
 1. IBM Microsoft [https://learn.microsoft.com/en-us/training/courses/dp-300t00]
