@@ -41,7 +41,6 @@
 ## Machine learning
 1. IBM  [https://www.ibm.com/topics/machine-learning]
 
-
 ## Cyber Security
 1. Try hack me  [https://tryhackme.com/room/introtooffensivesecurity]
 2. Google drive [https://drive.google.com/drive/folders/1DqvFPxC3ROZgRndVYsfpX7C7Nqx1CnmL]
