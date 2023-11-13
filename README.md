@@ -25,7 +25,7 @@
 2. Free Code camp [https://www.freecodecamp.org/learn/coding-interview-prep/]
 3. hackerRank [https://www.hackerrank.com/interview/preparation-kits]
 4. Python interview [https://clcoding.gumroad.com/l/waiqga]
-5. 
+5. Interview [https://docs.google.com/document/d/1nNZgY1r52apixCjAbuolR57Ialrytb-MoHvpbZDT670/edit#] 
 6. 
 
 ## Data science 
