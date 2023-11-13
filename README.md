@@ -59,7 +59,7 @@
 19. AttackIQ [FREE] [https://academy.attackiq.com/learning-paths ]
 20. Hack The Box [FREE/PAID] [https://hackthebox.com]
 21. HackTheBox Academy [FREE/PAID]  [ https://academy.hackthebox.com ]
-22. IppSec - YouTube [FREE]  [ https://m.youtube.com/results?search_query=ippsec]
+22. IppSec -YouTube [FREE]  [ https://m.youtube.com/results?search_query=ippsec]
 23. Kali Linux Revealed [FREE]  [https://kali.training ]
 24. OffSec Proving Grounds [FREE/PAID]  [https://offsec.com/labs/individual/]
 25. 
