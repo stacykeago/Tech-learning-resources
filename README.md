@@ -24,13 +24,17 @@
 1. Tech interview handbook [https://www.techinterviewhandbook.org/software-engineering-interview-guide/]
 2. Free Code camp [https://www.freecodecamp.org/learn/coding-interview-prep/]
 3. hackerRank [https://www.hackerrank.com/interview/preparation-kits]
-4. 
+4. Python interview [https://clcoding.gumroad.com/l/waiqga]
+5. 
+6. 
 
 ## Data science 
 1. Roadmap Ai-Data Science Roadmap [https://roadmap.sh/ai-data-scientist]
 2. Data engineer coursera [https://www.coursera.org/professional-certificates/data-warehouse-engineering]
 4. Azure data engineer [https://learn.microsoft.com/en-us/training/modules/introduction-to-data-engineering-azure/]
 5. Data Engineering on Microsoft Azure  [https://learn.microsoft.com/en-us/training/courses/dp-203t00]
+6. Data science books [https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html]
+7. 
   
 
 ## Machine learning
@@ -62,10 +66,13 @@
 22. IppSec -YouTube [FREE]  [ https://m.youtube.com/results?search_query=ippsec]
 23. Kali Linux Revealed [FREE]  [https://kali.training ]
 24. OffSec Proving Grounds [FREE/PAID]  [https://offsec.com/labs/individual/]
-25. 
+25. Cybersucurity books [https://drive.google.com/drive/folders/1DqvFPxC3ROZgRndVYsfpX7C7Nqx1CnmL]
+26. Ethical hacking [https://www.youtube.com/watch?v=fNzpcB7ODxQ&ab_channel=TheCyberMentor]
+27. 
 
 ## SQL
 1. IBM Microsoft [https://learn.microsoft.com/en-us/training/courses/dp-300t00]
+2. SQL [https://sqlbolt.com/]
 
 ## Databases
 1. Databases [https://www.hackerrank.com/domains/databases]
