@@ -30,7 +30,8 @@
 
 ## Data science 
 1. Roadmap Ai-Data Science Roadmap [https://roadmap.sh/ai-data-scientist]
-2. Data engineer coursera [https://www.coursera.org/professional-certificates/data-warehouse-engineering]
+2.Data analytics projects [https://www.datacamp.com/blog/data-analytics-projects-all-levels]
+3. Data engineer coursera [https://www.coursera.org/professional-certificates/data-warehouse-engineering]
 4. Azure data engineer [https://learn.microsoft.com/en-us/training/modules/introduction-to-data-engineering-azure/]
 5. Data Engineering on Microsoft Azure  [https://learn.microsoft.com/en-us/training/courses/dp-203t00]
 6. Data science books [https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html]
