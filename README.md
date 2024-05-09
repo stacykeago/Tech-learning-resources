@@ -17,7 +17,14 @@
 14. HackerRank [https://www.hackerrank.com/domains/python]
 15. HackerRank Python test [https://www.hackerrank.com/skills-verification/python_basic]
 16. Pynative python quizes [https://pynative.com/python/quizzes/]
-17. 
+17. Scrimba [https://scrimba.com/learn/python/course-introduction-c9Bv3wc8]
+18. Practice Python [https://www.practicepython.org/]
+19. Automate boring stuff with python [https://automatetheboringstuff.com/]
+20. Free code camp [https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-course]
+21. Data Science roadmap [https://roadmap.sh/ai-data-scientist]
+22. Solo Learn [https://www.sololearn.com/learn/courses/python-introduction?location=2]
+23. Codex Python [https://thecodex.me/app/learn?contentType=topic&slug=introduction-to-python-programming&task=0]
+24. 
 
     
 ## Tech Interview tips
@@ -74,6 +81,8 @@
 ## SQL
 1. IBM Microsoft [https://learn.microsoft.com/en-us/training/courses/dp-300t00]
 2. SQL [https://sqlbolt.com/]
+3. SQL for Data Analysis [https://drive.google.com/file/d/1WvcRy11Dlu5baSSdGi3Mfp-Bi1P2kIQ4/view]
+4. 
 
 ## Databases
 1. Databases [https://www.hackerrank.com/domains/databases]
