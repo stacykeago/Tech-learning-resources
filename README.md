@@ -32,7 +32,7 @@
 1. Tech interview handbook [https://www.techinterviewhandbook.org/software-engineering-interview-guide/]
 2. Free Code camp [https://www.freecodecamp.org/learn/coding-interview-prep/]
 3. hackerRank [https://www.hackerrank.com/interview/interview-preparation-kit]
-4. 
+4. Test Dome Python tech quizes [https://app.testdome.com/screening/sample-question/5214]
  
 
 ## Data science 
@@ -69,7 +69,9 @@
 ### Data Visualization
 1. Free images [https://unsplash.com/]
 2. Data Journalism [https://inside.mediahack.co.za/data-journalism-tools-and-resources-8df1c3d96c13]
-3. 
+3. Exploratory Data Analysis (EDA) and Data Visualization with Python [https://www.kite.com/blog/python/data-analysis-visualization-python/]
+4. 
+
 
 
 
@@ -80,7 +82,10 @@
 4. Machine Learning Projects [https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265]
 5. Supervised and Unsupervised ML [https://www.geeksforgeeks.org/supervised-unsupervised-learning/]
 6. Normalize / Standardize / Rescale Your Data? [https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff]
-7. 
+7. Khan Academy [https://www.khanacademy.org/computing/ap-computer-science-principles/data-analysis-101/x2d2f703b37b450a3:machine-learning-and-bias/a/machine-learning-algorithms]
+8. Lasso Regression [https://mindmajix.com/lasso-regression]
+9. Ridge Regression [https://www.quora.com/What-is-Ridge-Regression-in-laymans-terms/answer/Nipun-Ramakrishnan?ch=10&share=2be96406&srid=p8D0P]
+10. ML Course [https://mlcourse.ai/book/prereqs/python.html]
 
 
 
