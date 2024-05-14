@@ -43,6 +43,7 @@
 7. Data analysis steps [https://docs.google.com/document/d/1VlgLElYOOoPVCI6IPWg2KJDnFkGtbLPPQrB7wQKm1Xw/edit?pli=1]
 8. Types of Data analysis projects [https://docs.google.com/document/d/1ExzwAJpYbhmCkrlzmOL12rOEVtHzIEdEeH7_9Pm3uco/edit]
 
+
 ## Data Engineering
 1. Apache Spark [https://spark.apache.org/docs/latest/]
 2. Airflow setup [https://airflow.apache.org/docs/apache-airflow/stable/start.html]
@@ -59,6 +60,9 @@
 
 ## Machine learning
 1. IBM  [https://www.ibm.com/topics/machine-learning]
+
+## Data Visualization
+1.
 
 ## Cyber Security
 1. Try hack me  [https://tryhackme.com/room/introtooffensivesecurity]
