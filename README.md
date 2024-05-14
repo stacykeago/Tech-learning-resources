@@ -36,10 +36,7 @@
 ## Data science 
 1. The Data Science ToolBox [https://drive.google.com/drive/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD?fbclid=IwAR10FS3QAZTGLB1nxJcCiL7LPPYk6ZvrtBzxQrULCi4xjZN8YpjvmoR77jQ]
 2. Roadmap Ai-Data Science Roadmap [https://roadmap.sh/ai-data-scientist]
-3. Data analytics projects [https://www.datacamp.com/blog/data-analytics-projects-all-levels]
-4. Data engineer coursera [https://www.coursera.org/professional-certificates/data-warehouse-engineering]
-5. Azure data engineer [https://learn.microsoft.com/en-us/training/modules/introduction-to-data-engineering-azure/]
-6. Data Engineering on Microsoft Azure  [https://learn.microsoft.com/en-us/training/courses/dp-203t00]
+3. Data analytics projects [https://www.datacamp.com/blog/data-analytics-projects-all-levels] 
 7. Data science books [https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html]
 8. Data analysis steps [https://docs.google.com/document/d/1VlgLElYOOoPVCI6IPWg2KJDnFkGtbLPPQrB7wQKm1Xw/edit?pli=1]
 9. Types of Data analysis projects [https://docs.google.com/document/d/1ExzwAJpYbhmCkrlzmOL12rOEVtHzIEdEeH7_9Pm3uco/edit]
