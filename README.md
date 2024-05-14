@@ -42,6 +42,15 @@
 6. Data science books [https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html]
 7. Data analysis steps [https://docs.google.com/document/d/1VlgLElYOOoPVCI6IPWg2KJDnFkGtbLPPQrB7wQKm1Xw/edit?pli=1]
 8. Types of Data analysis projects [https://docs.google.com/document/d/1ExzwAJpYbhmCkrlzmOL12rOEVtHzIEdEeH7_9Pm3uco/edit]
+
+## Data Engineering
+1. Apache Spark [https://spark.apache.org/docs/latest/]
+2. Airflow setup [https://airflow.apache.org/docs/apache-airflow/stable/start.html]
+3. Freecode camp Data engineering [https://www.freecodecamp.org/news/learn-the-essentials-of-data-engineering/]
+4. Azure Data Lakes [https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-data-lake-storage/]
+5. Data Engineering Cook Book [https://github.com/andkret/Cookbook]
+6. Data engineering Zoomcamp [https://github.com/DataTalksClub/data-engineering-zoomcamp]
+7. 
   
 
 ## Machine learning
