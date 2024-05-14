@@ -29,7 +29,7 @@
 ## Tech Interview tips
 1. Tech interview handbook [https://www.techinterviewhandbook.org/software-engineering-interview-guide/]
 2. Free Code camp [https://www.freecodecamp.org/learn/coding-interview-prep/]
-3. hackerRank [https://www.hackerrank.com/interview/preparation-kits]
+3. hackerRank [https://www.hackerrank.com/interview/interview-preparation-kit]
 4. Python interview [https://clcoding.gumroad.com/l/waiqga]
  
 
