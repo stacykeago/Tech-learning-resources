@@ -50,7 +50,11 @@
 4. Azure Data Lakes [https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-data-lake-storage/]
 5. Data Engineering Cook Book [https://github.com/andkret/Cookbook]
 6. Data engineering Zoomcamp [https://github.com/DataTalksClub/data-engineering-zoomcamp]
-7. 
+7. Luigi [https://luigi.readthedocs.io/en/stable/]
+8. Azure Data Factory  [https://learn.microsoft.com/en-us/azure/data-factory/]
+9. AWS Data Pipeline [https://docs.aws.amazon.com/datapipeline/latest/DeveloperGuide/what-is-datapipeline.html]
+10.  
+11. 
   
 
 ## Machine learning
