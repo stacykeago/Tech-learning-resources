@@ -41,7 +41,8 @@
 8. Data analysis steps [https://docs.google.com/document/d/1VlgLElYOOoPVCI6IPWg2KJDnFkGtbLPPQrB7wQKm1Xw/edit?pli=1]
 9. Types of Data analysis projects [https://docs.google.com/document/d/1ExzwAJpYbhmCkrlzmOL12rOEVtHzIEdEeH7_9Pm3uco/edit]
 10. Data Science Projects [https://python.plainenglish.io/85-data-science-projects-c03c8750599e]
-11. 
+11. Data Science Techniques [https://ai.plainenglish.io/23-data-science-techniques-you-should-know-61bc2c9d1b3a]
+12. 
 
 
 ## Data Engineering
@@ -71,7 +72,8 @@
 1. IBM  [https://www.ibm.com/topics/machine-learning]
 2. Notebook Guideline [https://colab.research.google.com/drive/10yb-klsSub2r0M0E_Ldvt-R3jrRBPZk0?usp=sharing#scrollTo=eP-zVJ8CHfB4]
 3. Machine Learning Projects [https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265]
-4.  
+4. Supervised and Unsupervised ML [https://www.geeksforgeeks.org/supervised-unsupervised-learning/]
+5. 
 
 
 
@@ -79,7 +81,8 @@
 1. IBM Microsoft [https://learn.microsoft.com/en-us/training/courses/dp-300t00]
 2. SQL [https://sqlbolt.com/]
 3. SQL for Data Analysis [https://drive.google.com/file/d/1WvcRy11Dlu5baSSdGi3Mfp-Bi1P2kIQ4/view]
-4. 
+4. SQL Joins [https://medium.com/@irenenafula/an-in-depth-look-at-sql-joins-and-set-operations-b74b2c983d0c]
+5. 
 
 ## Databases
 1. Databases [https://www.hackerrank.com/domains/databases]
