@@ -52,9 +52,13 @@
 7. Luigi [https://luigi.readthedocs.io/en/stable/]
 8. Azure Data Factory  [https://learn.microsoft.com/en-us/azure/data-factory/]
 9. AWS Data Pipeline [https://docs.aws.amazon.com/datapipeline/latest/DeveloperGuide/what-is-datapipeline.html]
-10.  
-11. 
+10. Data Engineering on Microsoft Azure [https://learn.microsoft.com/en-us/training/courses/dp-203t00]
+11.  
+12. 
   
+## Data Analytics 
+1. Google Data Analytics Course [https://www.coursera.org/learn/foundations-data/home/module/5]
+2. 
 
 ## Machine learning
 1. IBM  [https://www.ibm.com/topics/machine-learning]
