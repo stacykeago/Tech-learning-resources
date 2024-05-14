@@ -2,28 +2,29 @@
 
 ## Python resources 
 1. HackerRank [https://www.hackerrank.com/dashboard]
-2. Automate the Boring Stuff with Python [https://automatetheboringstuff.com/2e/chapter0/]
-3. Codex [https://thecodex.me/app/learn?contentType=topic&slug=introduction-to-python-programming&task=0]
-4. SoloLearn [https://www.sololearn.com/learn/courses/python-introduction?location=2]
-5. Scrimba [https://scrimba.com/learn/python/course-introduction-c9Bv3wc8]
-6. Practice pYTHON [https://www.practicepython.org/]
-7. Free Code Camp [https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-course]
-8. Code Academy [https://www.codecademy.com/courses/learn-python-3/lessons/python-hello-world/exercises/comments]
-9. Free code academy [https://www.freecodecamp.org/learn/scientific-computing-with-python/]
-10. Google's Python Class [https://developers.google.com/edu/python]
-11. Kaggle [https://www.kaggle.com/learn/python]
-12. Roadmap [https://roadmap.sh/python]
-13. Freecode camp [https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody]
-14. HackerRank [https://www.hackerrank.com/domains/python]
-15. HackerRank Python test [https://www.hackerrank.com/skills-verification/python_basic]
-16. Pynative python quizes [https://pynative.com/python/quizzes/]
-17. Scrimba [https://scrimba.com/learn/python/course-introduction-c9Bv3wc8]
-18. Practice Python [https://www.practicepython.org/]
-19. Automate boring stuff with python [https://automatetheboringstuff.com/]
-20. Free code camp [https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-course]
-21. Codex Python [https://thecodex.me/app/learn?contentType=topic&slug=introduction-to-python-programming&task=0]
-22. 365 Data Python [https://365datascience.com/tutorials/python-tutorials/python-functions/]
-23. 
+2. Springboard Python [https://www.springboard.com/learning-paths/machine-learning-python/learn/]
+3. Automate the Boring Stuff with Python [https://automatetheboringstuff.com/2e/chapter0/]
+4. Codex [https://thecodex.me/app/learn?contentType=topic&slug=introduction-to-python-programming&task=0]
+5. SoloLearn [https://www.sololearn.com/learn/courses/python-introduction?location=2]
+6. Scrimba [https://scrimba.com/learn/python/course-introduction-c9Bv3wc8]
+7. Practice pYTHON [https://www.practicepython.org/]
+8. Free Code Camp [https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-course]
+9. Code Academy [https://www.codecademy.com/courses/learn-python-3/lessons/python-hello-world/exercises/comments]
+10. Free code academy [https://www.freecodecamp.org/learn/scientific-computing-with-python/]
+11. Google's Python Class [https://developers.google.com/edu/python]
+12. Kaggle [https://www.kaggle.com/learn/python]
+13. Roadmap [https://roadmap.sh/python]
+14. Freecode camp [https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody]
+15. HackerRank [https://www.hackerrank.com/domains/python]
+16. HackerRank Python test [https://www.hackerrank.com/skills-verification/python_basic]
+17. Pynative python quizes [https://pynative.com/python/quizzes/]
+18. Scrimba [https://scrimba.com/learn/python/course-introduction-c9Bv3wc8]
+19. Practice Python [https://www.practicepython.org/]
+20. Automate boring stuff with python [https://automatetheboringstuff.com/]
+21. Free code camp [https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-course]
+22. Codex Python [https://thecodex.me/app/learn?contentType=topic&slug=introduction-to-python-programming&task=0]
+23. 365 Data Python [https://365datascience.com/tutorials/python-tutorials/python-functions/]
+24. 
 
 
     
@@ -43,7 +44,8 @@
 9. Types of Data analysis projects [https://docs.google.com/document/d/1ExzwAJpYbhmCkrlzmOL12rOEVtHzIEdEeH7_9Pm3uco/edit]
 10. Data Science Projects [https://python.plainenglish.io/85-data-science-projects-c03c8750599e]
 11. Data Science Techniques [https://ai.plainenglish.io/23-data-science-techniques-you-should-know-61bc2c9d1b3a]
-12. 
+12. Data Science workshop [https://github.com/PacktWorkshops/The-Data-Science-Workshop/tree/master]
+13. 
 
 
 ## Data Engineering
@@ -74,10 +76,11 @@
 ## Machine learning
 1. IBM  [https://www.ibm.com/topics/machine-learning]
 2. Notebook Guideline [https://colab.research.google.com/drive/10yb-klsSub2r0M0E_Ldvt-R3jrRBPZk0?usp=sharing#scrollTo=eP-zVJ8CHfB4]
-3. Machine Learning Projects [https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265]
-4. Supervised and Unsupervised ML [https://www.geeksforgeeks.org/supervised-unsupervised-learning/]
-5. Normalize / Standardize / Rescale Your Data? [https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff]
-6. 
+3. Notebook ML Models and code [https://github.com/yug95/MachineLearning]
+4. Machine Learning Projects [https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265]
+5. Supervised and Unsupervised ML [https://www.geeksforgeeks.org/supervised-unsupervised-learning/]
+6. Normalize / Standardize / Rescale Your Data? [https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff]
+7. 
 
 
 
