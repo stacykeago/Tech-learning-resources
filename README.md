@@ -40,6 +40,8 @@
 7. Data science books [https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html]
 8. Data analysis steps [https://docs.google.com/document/d/1VlgLElYOOoPVCI6IPWg2KJDnFkGtbLPPQrB7wQKm1Xw/edit?pli=1]
 9. Types of Data analysis projects [https://docs.google.com/document/d/1ExzwAJpYbhmCkrlzmOL12rOEVtHzIEdEeH7_9Pm3uco/edit]
+10. Data Science Projects [https://python.plainenglish.io/85-data-science-projects-c03c8750599e]
+11. 
 
 
 ## Data Engineering
@@ -58,13 +60,19 @@
   
 ## Data Analytics 
 1. Google Data Analytics Course [https://www.coursera.org/learn/foundations-data/home/module/5]
-2. 
+
+
+### Data Visualization
+1. Free images [https://unsplash.com/]
+
+
 
 ## Machine learning
 1. IBM  [https://www.ibm.com/topics/machine-learning]
+2. Notebook Guideline [https://colab.research.google.com/drive/10yb-klsSub2r0M0E_Ldvt-R3jrRBPZk0?usp=sharing#scrollTo=eP-zVJ8CHfB4]
+3. Machine Learning Projects [https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265]
+4.  
 
-## Data Visualization
-1.
 
 
 ## SQL
