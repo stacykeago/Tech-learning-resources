@@ -22,8 +22,7 @@
 19. Automate boring stuff with python [https://automatetheboringstuff.com/]
 20. Free code camp [https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-course]
 21. Data Science roadmap [https://roadmap.sh/ai-data-scientist]
-22. Solo Learn [https://www.sololearn.com/learn/courses/python-introduction?location=2]
-23. Codex Python [https://thecodex.me/app/learn?contentType=topic&slug=introduction-to-python-programming&task=0]
+22. Codex Python [https://thecodex.me/app/learn?contentType=topic&slug=introduction-to-python-programming&task=0]
 24. 
 
     
