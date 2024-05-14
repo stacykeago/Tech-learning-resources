@@ -21,16 +21,16 @@
 18. Practice Python [https://www.practicepython.org/]
 19. Automate boring stuff with python [https://automatetheboringstuff.com/]
 20. Free code camp [https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-course]
-21. Data Science roadmap [https://roadmap.sh/ai-data-scientist]
-22. Codex Python [https://thecodex.me/app/learn?contentType=topic&slug=introduction-to-python-programming&task=0]
-24. 
+21. Codex Python [https://thecodex.me/app/learn?contentType=topic&slug=introduction-to-python-programming&task=0]
+22. 
+
 
     
 ## Tech Interview tips
 1. Tech interview handbook [https://www.techinterviewhandbook.org/software-engineering-interview-guide/]
 2. Free Code camp [https://www.freecodecamp.org/learn/coding-interview-prep/]
 3. hackerRank [https://www.hackerrank.com/interview/interview-preparation-kit]
-4. Python interview [https://clcoding.gumroad.com/l/waiqga]
+4. 
  
 
 ## Data science 
