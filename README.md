@@ -1,4 +1,4 @@
-# Tech learning resources | Python | Tech Interview tips | Data science | Machine learning | Cyber Security
+# Tech learning resources : | Python | Tech Interview tips | Data science | Machine learning | Cyber Security | Databases
 
 ## Python resources 
 1. HackerRank [https://www.hackerrank.com/dashboard]
