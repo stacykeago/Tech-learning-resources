@@ -22,7 +22,8 @@
 19. Automate boring stuff with python [https://automatetheboringstuff.com/]
 20. Free code camp [https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-course]
 21. Codex Python [https://thecodex.me/app/learn?contentType=topic&slug=introduction-to-python-programming&task=0]
-22. 
+22. 365 Data Python [https://365datascience.com/tutorials/python-tutorials/python-functions/]
+23. 
 
 
     
@@ -65,6 +66,8 @@
 
 ### Data Visualization
 1. Free images [https://unsplash.com/]
+2. Data Journalism [https://inside.mediahack.co.za/data-journalism-tools-and-resources-8df1c3d96c13]
+3. 
 
 
 
@@ -73,7 +76,8 @@
 2. Notebook Guideline [https://colab.research.google.com/drive/10yb-klsSub2r0M0E_Ldvt-R3jrRBPZk0?usp=sharing#scrollTo=eP-zVJ8CHfB4]
 3. Machine Learning Projects [https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265]
 4. Supervised and Unsupervised ML [https://www.geeksforgeeks.org/supervised-unsupervised-learning/]
-5. 
+5. Normalize / Standardize / Rescale Your Data? [https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff]
+6. 
 
 
 
