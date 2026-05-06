@@ -93,8 +93,7 @@
 1. IBM Microsoft [https://learn.microsoft.com/en-us/training/courses/dp-300t00]
 2. SQL [https://sqlbolt.com/]
 3. SQL for Data Analysis [https://drive.google.com/file/d/1WvcRy11Dlu5baSSdGi3Mfp-Bi1P2kIQ4/view]
-4. SQL Joins [https://medium.com/@irenenafula/an-in-depth-look-at-sql-joins-and-set-operations-b74b2c983d0c]
-5. 
+ 
 
 ## Databases
 1. Databases [https://www.hackerrank.com/domains/databases]
