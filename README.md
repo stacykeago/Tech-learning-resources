@@ -69,8 +69,7 @@
 ### Data Visualization
 1. Free images [https://unsplash.com/]
 2. Data Journalism [https://inside.mediahack.co.za/data-journalism-tools-and-resources-8df1c3d96c13]
-3. Exploratory Data Analysis (EDA) and Data Visualization with Python [https://www.kite.com/blog/python/data-analysis-visualization-python/]
-4. 
+ 
 
 
 
